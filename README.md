@@ -1,9 +1,9 @@
 # Hey I'm Daniel 👋 - Welcome to my github!
 
 - 👋 Hi, I'm a software engineer - UI designer - fullstack developer.
-- 👀 Thanks for taking your time to check out my repos, have a wonderful day!
+- 👀 Thanks for taking your time to check out my repos.
 - 🌱 I'm always learning new things.
-- 📫 Reach me via Linkedin or email at - https://www.linkedin.com/in/daniel-shaw-1a02b71b1/ or danshawmt@hotmail.com
+- 📫 Want to work with me? Reach me via Linkedin or email at - https://www.linkedin.com/in/daniel-shaw-1a02b71b1/ or danshawmt@hotmail.com
 
 <!---
 Daniel-Shaw-MT/Daniel-Shaw-MT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
